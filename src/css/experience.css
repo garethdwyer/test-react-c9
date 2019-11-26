@@ -1,0 +1,17 @@
+.style_experience {
+    border: 2px solid darkgrey;
+    margin-bottom: 20px;
+    background-color: darkgrey;
+}
+
+.flex_experience {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Arial Narrow';
+}
+
+.exp_title {
+    font-family: 'Arial Narrow';
+    font-size: 20px;
+}

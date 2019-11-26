@@ -1,0 +1,18 @@
+.ed_flex {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Arial Narrow';
+}
+
+.ed_item {
+    background-color: gray;
+    color: whitesmoke;
+    align-items: center;
+    margin: 0 5px 20px 5px;
+    width: 50%;
+}
+
+.ed_style {
+    font-family: 'Arial Narrow';
+    font-size: 20px;
+}
